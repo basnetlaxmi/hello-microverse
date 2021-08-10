@@ -12,7 +12,7 @@ It has a white background with the header in red color.
 ## Built With
 
 - html,css
-- Linters,Mark down
+- Linters,Markdown
 
 
 
@@ -44,17 +44,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Laxmi Basnet**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@basnetlaxmi](https://github.com/basnetlaxmi)
 
 ## 🤝 Contributing
 
@@ -68,9 +60,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse learning partners
 
 ## 📝 License
 
