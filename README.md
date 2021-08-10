@@ -3,31 +3,32 @@
 
 # hello-microverse
 
-> 
+> This is a site showing hello microverse text as a header.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./images/pic.png)
 
-Additional description about the project and its features.
+It has a white background with the header in red color.
 
 ## Built With
 
 - html,css
 - Linters,Mark down
 
-## Live Demo
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
+1)Enter `git clone git@github.com:basnetlaxmi/hello-microverse.git` into terminal
+
+2)Open in browser to view site
+
+
 ### Prerequisites
+-code editor
+-git and github
 
 ### Setup
 
