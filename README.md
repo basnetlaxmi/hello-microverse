@@ -5,7 +5,7 @@
 
 > This is a site showing hello microverse text as a header. I setup hello-microverse repo and cloned into my local machine. Since the goal was to combine different tools for the best practices, I have implemented Linter, Github Flow rules,documentation of repo,adding a .gitignore file etc. here. 
 
-![screenshot](/app_screenshot.PNG)
+![screenshot](app_screenshot.PNG)
 
 It has a white background with the header in red color.
 
@@ -34,6 +34,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Laxmi Basnet**
 
 - GitHub: [@basnetlaxmi](https://github.com/basnetlaxmi)
+- LinkedIn: [LinkedIn](https://np.linkedin.com/in/laxmi-basnet-b22403131)
 
 ## 🤝 Contributing
 
