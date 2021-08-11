@@ -3,9 +3,9 @@
 
 # hello-microverse
 
-> This is a site showing hello microverse text as a header.
+> This is a site showing hello microverse text as a header. I setup hello-microverse repo and cloned into my local machine. Since the goal was to combine different tools for the best practices, I have implemented Linter, Github Flow rules,documentation of repo,adding a .gitignore file etc. here. 
 
-![screenshot](./images/pic.png)
+![screenshot](/pic.png)
 
 It has a white background with the header in red color.
 
@@ -13,48 +13,26 @@ It has a white background with the header in red color.
 
 - html,css
 - Linters,Mark down
-
-
-
+- Github Flow 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-1)Enter `git clone git@github.com:basnetlaxmi/hello-microverse.git` into terminal
+1) Enter `git clone git@github.com:basnetlaxmi/hello-microverse.git` into terminal
 
-2)Open in browser to view site
+2) Open in browser to view site
 
 
 ### Prerequisites
 -code editor
 -git and github
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Laxmi Basnet**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@basnetlaxmi](https://github.com/basnetlaxmi)
 
 ## 🤝 Contributing
 
@@ -68,9 +46,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse learning partners
+- Microverse
 
 ## 📝 License
 
